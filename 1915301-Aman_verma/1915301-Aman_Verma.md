@@ -1,5 +1,5 @@
 # Aman Verma-1915301
-![](/images/Gndec.jpg)
+![](./images/Gndec.jpg)
 
 # My Details
 ### Name :- Aman Verma
@@ -19,7 +19,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/1.jpg)
+![](./images/1.jpg)
 ---
 ## 2. To print college address
 
@@ -32,7 +32,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/2.jpg)
+![](./images/2.jpg)
 ---
 ## 3. Addition of two numbers input by user
 
@@ -49,7 +49,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/3.jpg)
+![](./images/3.jpg)
 ---
 ## 4. Program to compute quotient and remainder
 
@@ -68,7 +68,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/4.jpg)
+![](./images/4.jpg)
 ---
 ## 5. Program to swap two numbers without third variable
 
@@ -87,7 +87,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/5.jpg)
+![](./images/5.jpg)
 ---
 ## 6. Program to check number is even or odd
 
@@ -106,7 +106,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/6.jpg)
+![](./images/6.jpg)
 ---
 ## 7. Finding greatest of two numbers
 
@@ -130,7 +130,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/7.jpg)
+![](./images/7.jpg)
 ---
 ## 8. To find greatest of three entered numbers
 
@@ -156,7 +156,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/8.jpg)
+![](./images/8.jpg)
 ---
 ## 9. To print grade of a student by entering marks
 
@@ -193,7 +193,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/9.jpg)
+![](./images/9.jpg)
 ---
 ## 10. To find roots of entered quadratic equation
 ```C
@@ -225,7 +225,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/10.jpg)
+![](./images/10.jpg)
 ---
 ## 11. To check whether entered year is leap year or not
 ```C
@@ -243,7 +243,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/11.jpg)
+![](./images/11.jpg)
 ---
 ## 12. To generate table of 5
 ```C
@@ -256,7 +256,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/12.jpg)
+![](./images/12.jpg)
 ---
 ## 13. To make simple calculator using switch statements
 ```C
@@ -293,7 +293,7 @@ int main() {
 return 0;
 }
 ```
-![](/images/13.jpg)
+![](./images/13.jpg)
 ---
 ## 14. To calculate reverse of a number
 ```C
@@ -313,7 +313,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/14.jpg)
+![](./images/14.jpg)
 ---
 ## 15. To check whether a number is palindrome or not
 ```C
@@ -338,7 +338,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/15.jpg)
+![](./images/15.jpg)
 ---
 ## 16. To check whether a number is prime or not
 ```C
@@ -362,8 +362,8 @@ int main(){
     return 0;
 }
 ```
-![](/images/16(i).jpg)
-![](/images/16(ii).jpg)
+![](./images/16(i).jpg)
+![](./images/16(ii).jpg)
 ---
 ## 17. To print all prime numbers between 1 to 100
 ```C
@@ -384,7 +384,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/17.jpg)
+![](./images/17.jpg)
 ---
 ## 18. To check whether a number is armstrong or not
 ```C
@@ -408,7 +408,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/18.jpg)
+![](./images/18.jpg)
 ---
 ## 19. A program to generate given patterns
 ```C
@@ -553,7 +553,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/19.jpg)
+![](./images/19.jpg)
 ---
 ## 20. To find largest number in 1 dimentional array
 ```C
@@ -580,7 +580,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/20.jpg)
+![](./images/20.jpg)
 ---
 ## 21. To find sum of 'n' natural numbers in an array
 ```C
@@ -600,7 +600,7 @@ int main(){
         return 0;
 }
 ```
-![](/images/21.jpg)
+![](./images/21.jpg)
 ---
 ## 22. Program to add two matrices
 ```C
@@ -632,7 +632,7 @@ int main() {
         return 0;
 }
 ```
-![](/images/22.jpg)
+![](./images/22.jpg)
 ---
 ## 23. Program to multiply two matrices
 ```C
@@ -681,7 +681,7 @@ int main(){
         return 0;
 }
 ```
-![](/images/23.jpg)
+![](./images/23.jpg)
 ---
 ## 24. Program to check whether  a string is palindrome or not
 ```C
@@ -707,7 +707,7 @@ int main() {
         return 0;
 }
 ```
-![](/images/24.jpg)
+![](./images/24.jpg)
 ---
 ## 25. Program to perform basic operations like lenghth of string ,string concat, string copy ,string compare and string reverse
 ```C
@@ -804,7 +804,7 @@ int main() {
         return 0;
 }
 ```
-![](/images/25.jpg)
+![](./images/25.jpg)
 ---
 ## 26. Programs to swap two numbers using call by value and call by refernce
 ```C
@@ -852,8 +852,8 @@ int main(){
         return 0;
 }
 ```
-![](/images/26i.jpg)
-![](/images/26ii.jpg)
+![](./images/26i.jpg)
+![](./images/26ii.jpg)
 ---
 ## 27. To calculate factorial of entered number
 ```C
@@ -874,7 +874,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/27.jpg)
+![](./images/27.jpg)
 ---
 ## 28. Program to print febonacci series
 ```C
@@ -895,7 +895,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/28.jpg)
+![](./images/28.jpg)
 ---
 ## 29. Program to calculate average of 5 numbers using function
 ```C
@@ -918,7 +918,7 @@ int main(){
         return 0; 
 }
 ```
-![](/images/29.jpg)
+![](./images/29.jpg)
 ---
 ## 30. Program to implement linear serach and binary search
 ```C
@@ -990,8 +990,8 @@ int main(){
         return 0;
 }
 ```
-![](/images/30i.jpg)
-![](/images/30ii.jpg)
+![](./images/30i.jpg)
+![](./images/30ii.jpg)
 ---
 ## 31. Program to implement bubble sort
 ```C
@@ -1020,7 +1020,7 @@ int main(){
         return 0;
 }
 ```
-![](/images/31.jpg)
+![](./images/31.jpg)
 ---
 ## 32. Program to store information of students using array of structures
 ```C
@@ -1059,7 +1059,7 @@ int main(){
         return 0;                                                               
 }
 ```
-![](/images/32.jpg)
+![](./images/32.jpg)
 ---
 ## 33. Programs to find transpose of a matrix
 ```C
@@ -1102,7 +1102,7 @@ int main()
     return 0;      
 }
 ```
-![](/images/33.jpg)
+![](./images/33.jpg)
 ---
 ## 34. Program to print the address of variable using pointer
 ```C
@@ -1116,7 +1116,7 @@ int main() {
   return 0;
 }
 ```
-![](/images/34.jpg)
+![](./images/34.jpg)
 ---
 ## 35. Program to access array using pointer
 ```C
@@ -1134,5 +1134,5 @@ int main(){
         return 0;
 }
 ```
-![](/images/35.jpg)
+![](./images/35.jpg)
 ---
